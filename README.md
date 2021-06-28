@@ -1256,7 +1256,7 @@ onmessage = function (oEvent) {
 
 For more information, see: [MDN - Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
-## Service Workers 🔖
+## Service Workers
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker_API) essentially act as proxy servers that sit between web applications, and the browser and network (when available). **They are intended to (amongst other things) enable the creation of effective offline experiences**, intercepting network requests and taking appropriate action based on whether the network is available and updated assets reside on the server. They will also allow access to push notifications and background sync APIs.
 
@@ -1351,7 +1351,7 @@ A memoized function "remembers" the results corresponding to some set of specifi
 
 Memoization is a way to lower a function's time cost in exchange for space cost; that is, memoized functions become optimised for speed in exchange for a higher use of computer memory space. The time/space "cost" of algorithms has a specific name in computing: computational complexity. All functions have a computational complexity in time (i.e. they take time to execute) and in space.
 
-# Design Patterns
+# Design Patterns 🔖
 
 ## Decorator
 
