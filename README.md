@@ -1351,7 +1351,7 @@ A memoized function "remembers" the results corresponding to some set of specifi
 
 Memoization is a way to lower a function's time cost in exchange for space cost; that is, memoized functions become optimised for speed in exchange for a higher use of computer memory space. The time/space "cost" of algorithms has a specific name in computing: computational complexity. All functions have a computational complexity in time (i.e. they take time to execute) and in space.
 
-# Design Patterns 🔖
+# Design Patterns
 
 ## Decorator
 
@@ -1639,7 +1639,7 @@ To favor composition over inheritance is a design principle that gives the desig
 
 Initial design is simplified by identifying system object behaviors in separate interfaces instead of creating a hierarchical relationship to distribute behaviors among business-domain classes via inheritance. This approach more easily accommodates future requirements changes that would otherwise require a complete restructuring of business-domain classes in the inheritance model. Additionally, it avoids problems often associated with relatively minor changes to an inheritance-based model that includes several generations of classes.
 
-# HTML / CSS
+# HTML / CSS 🔖
 
 ## Flexbox
 
