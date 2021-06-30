@@ -1639,7 +1639,7 @@ To favor composition over inheritance is a design principle that gives the desig
 
 Initial design is simplified by identifying system object behaviors in separate interfaces instead of creating a hierarchical relationship to distribute behaviors among business-domain classes via inheritance. This approach more easily accommodates future requirements changes that would otherwise require a complete restructuring of business-domain classes in the inheritance model. Additionally, it avoids problems often associated with relatively minor changes to an inheritance-based model that includes several generations of classes.
 
-# HTML / CSS 🔖
+# HTML / CSS
 
 ## Flexbox
 
@@ -1679,7 +1679,7 @@ transform: skew(30deg, 20deg);
 transform: scale(0.5) translate(-100%, -100%);
 ```
 
-## Accessibility
+## Accessibility 🔖
 
 > Being accessible is about making your website, with all of its data and functions, available for anyone, no matter how they have to use your website. — Katie Cunningham, Accessibility Handbook (O’Reilly)
 
