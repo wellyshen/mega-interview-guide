@@ -1679,7 +1679,7 @@ transform: skew(30deg, 20deg);
 transform: scale(0.5) translate(-100%, -100%);
 ```
 
-## Accessibility 🔖
+## Accessibility
 
 > Being accessible is about making your website, with all of its data and functions, available for anyone, no matter how they have to use your website. — Katie Cunningham, Accessibility Handbook (O’Reilly)
 
@@ -1696,7 +1696,7 @@ If you want to dive into a more hands-on learning plan with recommended activiti
 - Providing accessible error messages
 - Accessibility testing
 
-# Questions
+# Questions 🔖
 
 ### How would you make these functions work?
 
