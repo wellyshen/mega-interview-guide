@@ -1696,7 +1696,7 @@ If you want to dive into a more hands-on learning plan with recommended activiti
 - Providing accessible error messages
 - Accessibility testing
 
-# Questions 🔖
+# Questions
 
 ### How would you make these functions work?
 
@@ -1857,7 +1857,7 @@ flatten([1, 2, 3, 4, [5, [1, 2, 3, 4, 5, [4, 5]]]]);
 
 </details>
 
-### Write a function to find the 2nd largest element in a binary search tree.
+### Write a function to find the 2nd largest element in a binary search tree. 🔖
 
 <details>
 <summary>Show Answer 💡</summary>
