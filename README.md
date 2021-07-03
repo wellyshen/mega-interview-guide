@@ -1857,7 +1857,7 @@ flatten([1, 2, 3, 4, [5, [1, 2, 3, 4, 5, [4, 5]]]]);
 
 </details>
 
-### Write a function to find the 2nd largest element in a binary search tree. 🔖
+### Write a function to find the 2nd largest element in a binary search tree.
 
 <details>
 <summary>Show Answer 💡</summary>
@@ -2040,7 +2040,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops.
+### Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops. 🔖
 
 [Reference 📖](https://www.glassdoor.com.au/Interview/Given-an-input-array-and-another-array-that-describes-a-new-index-for-each-element-mutate-the-input-array-so-that-each-ele-QTN_446534.htm)
 
