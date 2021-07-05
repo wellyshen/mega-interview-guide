@@ -2040,7 +2040,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops. 🔖
+### Given an input array and another array that describes a new index for each element, mutate the input array so that each element ends up in their new index. Discuss the runtime of the algorithm and how you can be sure there won't be any infinite loops.
 
 [Reference 📖](https://www.glassdoor.com.au/Interview/Given-an-input-array-and-another-array-that-describes-a-new-index-for-each-element-mutate-the-input-array-so-that-each-ele-QTN_446534.htm)
 
@@ -2250,7 +2250,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### You have a linked list and want to find the kth to last node.
+### You have a linked list and want to find the kth to last node. 🔖
 
 [Reference 📖](https://www.interviewcake.com/question/javascript/kth-to-last-node-in-singly-linked-list)
 
