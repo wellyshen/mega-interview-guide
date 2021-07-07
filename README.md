@@ -2250,7 +2250,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### You have a linked list and want to find the kth to last node. 🔖
+### You have a linked list and want to find the kth to last node.
 
 [Reference 📖](https://www.interviewcake.com/question/javascript/kth-to-last-node-in-singly-linked-list)
 
@@ -2264,7 +2264,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### Verify a prime number?
+### Verify a prime number? 🔖
 
 <details>
 <summary>Show Answer 💡</summary>
