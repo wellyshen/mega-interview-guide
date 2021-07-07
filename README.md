@@ -2264,7 +2264,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### Verify a prime number? 🔖
+### Verify a prime number?
 
 <details>
 <summary>Show Answer 💡</summary>
@@ -2370,7 +2370,7 @@ reverseString("hello");
 
 </details>
 
-### Reverse words in a sentence?
+### Reverse words in a sentence? 🔖
 
 <details>
 <summary>Show Answer 💡</summary>
