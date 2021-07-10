@@ -2448,7 +2448,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### Get two numbers that equal to a given number? 🔖
+### Get two numbers that equal to a given number?
 
 <details>
 <summary>Show Answer 💡</summary>
@@ -2506,7 +2506,7 @@ There's no answer here - yet! Suggest one by [creating a pull request 🙏](http
 
 </details>
 
-### How would you handle 5000 promises?
+### How would you handle 5000 promises? 🔖
 
 <details>
 <summary>Show Answer 💡</summary>
